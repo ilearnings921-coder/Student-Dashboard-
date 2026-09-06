@@ -1,5 +1,5 @@
 # Student-Dashboard-
 A Student Dashboard with student details. 
-<B>
-This the main file
+<B> This is main file.
+
 
